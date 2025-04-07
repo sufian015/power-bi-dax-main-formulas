@@ -16,30 +16,30 @@ This repository is ideal for data analysts, BI professionals, and Power BI enthu
 3.Calculate tax 10% using calculative column?<br>
 
 4.Difffernence between sumx and sum?<br>
- note: when creating calculated column we cannot use aggregate function<br>
+   note: when creating calculated column we cannot use aggregate function<br>
       we calculate using sumx or simple formulas like quantity * unit price.
 
-5. Add new table and calculate total customers using count?<br>
+5.Add new table and calculate total customers using count?<br>
 
 6. what is the difference between count and countA formula?<br>
 
  Note: count doesn't calculate boolean value but counta calculated it.<br>
 
-7.calculate different types of calculation using count,counta,blankCount,countx and countax formulas.<br>
+7.Calculate different types of calculation using count,counta,blankCount,countx and countax formulas.<br>
 
-8. extract day,month and year from date column using dax formulas.<br>
+8. Extract day,month and year from date column using dax formulas.<br>
 
-9.calculate dayname from date using format formula it is same as excel text formula.<br>
+9.Calculate dayname from date using format formula it is same as excel text formula.<br>
 
-10. calculate weekdays and weeknum based on date.<br>
+10.Calculate weekdays and weeknum based on date.<br>
 
-11. calculate difference between sales date to today using date dif?<br>
+11. Calculate difference between sales date to today using date dif?<br>
 
 12. Add calander because we can see the table date column has some date gap?<br>
 
-13. calculate Mtd,Qtd,Ytd on total sales?<br>
+13. Calculate Mtd,Qtd,Ytd on total sales?<br>
 
-14. calculate total sum 7 days using calculate and dateINPeriod formula?<br>
+14. Calculate total sum 7 days using calculate and dateINPeriod formula?<br>
 
 
 
