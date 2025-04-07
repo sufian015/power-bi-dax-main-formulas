@@ -9,37 +9,37 @@ This repository is ideal for data analysts, BI professionals, and Power BI enthu
 
 ##### POWER-bi dax understanding:
 
-1.What is implicit and explicit funtion in power-bi?<br>
+- What is implicit and explicit funtion in power-bi?<br>
 
-2.calculate total sales using sum and sumx?<br>
+- calculate total sales using sum and sumx?<br>
 
-3.Calculate tax 10% using calculative column?<br>
+- Calculate tax 10% using calculative column?<br>
 
-4.Difffernence between sumx and sum?<br>
+- Difffernence between sumx and sum?<br>
    note: when creating calculated column we cannot use aggregate function<br>
       we calculate using sumx or simple formulas like quantity * unit price.
 
-5.Add new table and calculate total customers using count?<br>
+- Add new table and calculate total customers using count?<br>
 
-6. what is the difference between count and countA formula?<br>
+- what is the difference between count and countA formula?<br>
 
- Note: count doesn't calculate boolean value but counta calculated it.<br>
+   Note: count doesn't calculate boolean value but counta calculated it.<br>
 
-7.Calculate different types of calculation using count,counta,blankCount,countx and countax formulas.<br>
+- Calculate different types of calculation using count,counta,blankCount,countx and countax formulas.<br>
 
-8. Extract day,month and year from date column using dax formulas.<br>
+- Extract day,month and year from date column using dax formulas.<br>
 
-9.Calculate dayname from date using format formula it is same as excel text formula.<br>
+- Calculate dayname from date using format formula it is same as excel text formula.<br>
 
-10.Calculate weekdays and weeknum based on date.<br>
+- Calculate weekdays and weeknum based on date.<br>
 
-11. Calculate difference between sales date to today using date dif?<br>
+- Calculate difference between sales date to today using date dif?<br>
 
-12. Add calander because we can see the table date column has some date gap?<br>
+- Add calander because we can see the table date column has some date gap?<br>
 
-13. Calculate Mtd,Qtd,Ytd on total sales?<br>
+- Calculate Mtd,Qtd,Ytd on total sales?<br>
 
-14. Calculate total sum 7 days using calculate and dateINPeriod formula?<br>
+- Calculate total sum 7 days using calculate and dateINPeriod formula?<br>
 
 
 
